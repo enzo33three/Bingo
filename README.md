@@ -1,4 +1,4 @@
-# MERN-BUS-APP
+# Get A Ride
 
 A Bus ticket booking application made using MERN Stack (MongoDB, Express js, React js, Node js)
 
@@ -82,7 +82,7 @@ npm -v
 * Install node modules
 
    ```bash
-   cd MERN-BUS-APP
+   cd GetARide
    cd frontend
    npm install
    cd..
